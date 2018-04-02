@@ -1,0 +1,26 @@
+<annotation>
+	<folder>guns_100</folder>
+	<filename>ActiOn_3 (2).jpg</filename>
+	<path>C:\Users\shash\PycharmProjects\image_scraping\guns_100\ActiOn_3 (2).jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1280</width>
+		<height>687</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>gun</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>67</xmin>
+			<ymin>3</ymin>
+			<xmax>1280</xmax>
+			<ymax>683</ymax>
+		</bndbox>
+	</object>
+</annotation>
